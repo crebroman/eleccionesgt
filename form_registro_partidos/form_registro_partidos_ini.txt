@@ -1,0 +1,7 @@
+index.php
+temporal
+form_registro_partidos
+NAO
+form
+form_registro_partidos
+LigMd5
